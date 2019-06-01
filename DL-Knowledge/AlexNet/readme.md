@@ -3,6 +3,7 @@
 
 [AlexNet原文 ](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
+![image](https://github.com/WeiYangBin/AI-Knowledge/blob/master/DL-Knowledge/AlexNet/img/AlexNet.png)
 之前有看过一些自己方向的论文，但是总体还是属于一种蒙的状态，然后觉得还是有必要把一些Base paper拿出来看看，毕竟基础很重要嘛， 写写随笔谈谈收获。 
 
 ![image](https://github.com/WeiYangBin/Notes-Deep-Learning/blob/master/Picture/Alexnet.png)
