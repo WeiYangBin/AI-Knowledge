@@ -6,6 +6,9 @@
 
 宽度：利用1 * 1的filter降低层的厚度
 
+![image](https://github.com/WeiYangBin/AI-Knowledge/blob/master/DL-Knowledge/GoogleNet/Inception%20V1/img/GoogleNet.png)
+
+
 ### Module block
 ![image](https://github.com/WeiYangBin/AI-Knowledge/blob/master/DL-Knowledge/GoogleNet/Inception%20V1/img/module.png)
 
